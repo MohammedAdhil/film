@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+
+
+img{
+    height:500px;
+    width:390px;
+}
+.col-1{
+    color: aliceblue;
+    height: 800px;
+    width: 390px;
+    position: absolute;
+
+}
+.col-2{
+    left: 440px;
+    color: aliceblue;
+    height: 800px;
+    width: 390px;
+    position: absolute;
+}
+.col-3{
+    left: 880px;
+    color: aliceblue;
+    height: 800px;
+    width: 390px;
+    position: absolute;
+}
+.col-4{
+    left: 1320px;
+    color: aliceblue;
+    height: 800px;
+    width: 390px;
+    position: absolute;
+}
+.col-5{
+    left: 1760px;
+    color: aliceblue;
+    height: 800px;
+    width: 390px;
+    position: absolute;
+}
+
+.ratng{
+    border: 2px double;
+}
